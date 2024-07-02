@@ -1,5 +1,5 @@
 site:
-  name: AstroWind
+  name: Power To The People
   site: 'https://astrowind.vercel.app'
   base: '/'
   trailingSlash: false
