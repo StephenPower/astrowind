@@ -1,7 +1,7 @@
 site:
   name: Power To The People
   site: 'https://powertothepeople.netlify.app/'
-  base: 'https://powertothepeople.netlify.app/'
+  base: '/'
   trailingSlash: false
 
   # googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
